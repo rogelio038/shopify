@@ -1,0 +1,13 @@
+codigo,nombre,categoria_id,precio_venta,precio_compra,stock,stock_minimo,tipo_modelo,color_hex,activo
+ZAP-001,Zapatilla Runner Pro,1,450,270,15,5,shoe,#ff6b1a,true
+ZAP-002,Zapatilla Urban Street,1,380,230,12,5,shoe,#2563eb,true
+ZAP-003,Botín Fútbol Elite,1,520,320,8,5,boot,#16a34a,true
+POL-001,Camiseta Selección,2,180,100,20,5,jersey,#e11d2e,true
+POL-002,Polera Entrenamiento,2,120,65,25,5,jersey,#1d4ed8,true
+CAN-001,Canilleras Shield,3,70,35,30,5,shin,#111827,true
+MED-001,Medias Deportivas,4,35,15,40,5,sock,#f59e0b,true
+GUA-001,Guantes de Arquero,5,160,90,10,5,glove,#84cc16,true
+BAL-001,Balón Pro Match,6,210,130,18,5,ball,#1e293b,true
+BAL-002,Balón Futsal,6,150,90,14,5,ball,#ea580c,true
+ACC-001,Mochila Deportiva,7,220,130,9,5,bag,#7c3aed,true
+ACC-002,Gorra Sport,7,65,30,22,5,cap,#dc2626,true
